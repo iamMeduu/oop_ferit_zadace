@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{6A04463D-A334-4C0C-A90D-250E3352308B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{6DE2DF7D-C018-4C8F-AC4F-02D16C3C8E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A04463D-A334-4C0C-A90D-250E3352308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A04463D-A334-4C0C-A90D-250E3352308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A04463D-A334-4C0C-A90D-250E3352308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A04463D-A334-4C0C-A90D-250E3352308B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE2DF7D-C018-4C8F-AC4F-02D16C3C8E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE2DF7D-C018-4C8F-AC4F-02D16C3C8E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE2DF7D-C018-4C8F-AC4F-02D16C3C8E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE2DF7D-C018-4C8F-AC4F-02D16C3C8E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8AD39B0-8F12-4487-9AEC-8F045588869C}
+	EndGlobalSection
+EndGlobal
