@@ -6,9 +6,11 @@ namespace UI
 
         static void Main(string[] args)
         {
+            
             Episode ep1, ep2;
             ep1 = new Episode();
             ep2 = new Episode(10, 64.39, 8.7);
+            Console.WriteLine(ep2);
             int viewers = 10;
             for (int i = 0; i < viewers; i++)
             {

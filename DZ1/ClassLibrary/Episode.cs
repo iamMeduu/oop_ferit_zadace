@@ -42,5 +42,6 @@
             return sumOfReviews / viewerCount;
         }
         
+
     }
 }
